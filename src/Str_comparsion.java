@@ -10,7 +10,7 @@ public class Str_comparsion {
 
                 // Var
 
-        String first_in_str, second_in_str, res_out_str;
+        String first_in_str, second_in_str;
 
                 // Data processing
 
